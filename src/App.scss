@@ -1,0 +1,27 @@
+//colors
+@import './sass/colors/main-colors';
+
+// base of the project
+@import './sass/base/utils';
+@import './sass/base/reset';
+
+//typography
+@import './sass/typography/fonts';
+@import './sass/typography/text-size';
+
+//layout
+@import './sass/layout/login-page';
+
+
+
+//components
+@import './sass/components/btn-primary';
+@import './sass/components/navbar';
+@import './sass/components/stories-container';
+@import './sass/components/storie';
+
+
+
+
+// pages
+@import './sass/pages/login-page.scss';

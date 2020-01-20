@@ -1,0 +1,11 @@
+.br{
+  display: block;
+  margin-top: -2rem;
+}
+
+
+@media screen and (min-width: 768px){
+  .br{
+    display: none;
+  }
+}
